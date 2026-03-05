@@ -4503,7 +4503,7 @@ __metadata:
     rehype-autolink-headings: 7.1.0
     rehype-parse: 9.0.1
     rehype-slug: 6.0.0
-    remark-directive: 3.0.0
+    remark-directive: 4.0.0
     remark-frontmatter: 5.0.0
     remark-mdx-frontmatter: 4.0.0
     typescript: 5.7.2
@@ -14047,9 +14047,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"micromark-extension-directive@npm:^3.0.0":
-  version: 3.0.2
-  resolution: "micromark-extension-directive@npm:3.0.2"
+"micromark-extension-directive@npm:^4.0.0":
+  version: 4.0.0
+  resolution: "micromark-extension-directive@npm:4.0.0"
   dependencies:
     devlop: ^1.0.0
     micromark-factory-space: ^2.0.0
@@ -14058,7 +14058,7 @@ __metadata:
     micromark-util-symbol: ^2.0.0
     micromark-util-types: ^2.0.0
     parse-entities: ^4.0.0
-  checksum: 572c9e4625bc6a37146f6c905cbc8b507f171c07ad0a6d991d6ee22bbde4620826b89303f80e71c30c7903e5fa0661e1f08fb14e69b5273b33afbd87276c8a53
+  checksum: c58ee727c4b87647508977e3af186e6efbdd8453ae0a72322779f8dea768ba7e4983804843ff66f81e32efd56a971f7256fb5bda4c401542145b4f0a1ad16396
   languageName: node
   linkType: hard
 
@@ -17033,15 +17033,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"remark-directive@npm:3.0.0":
-  version: 3.0.0
-  resolution: "remark-directive@npm:3.0.0"
+"remark-directive@npm:4.0.0":
+  version: 4.0.0
+  resolution: "remark-directive@npm:4.0.0"
   dependencies:
     "@types/mdast": ^4.0.0
     mdast-util-directive: ^3.0.0
-    micromark-extension-directive: ^3.0.0
+    micromark-extension-directive: ^4.0.0
     unified: ^11.0.0
-  checksum: 744d12bbe924bd0492a2481cbaf9250aa6622c0d2cc090bb7bc39975e355c8a46ae13cc4793204ada39f0af64c953f6b730a55420a50375e0f74a5dd5d201089
+  checksum: 1782340a6c38f41eb606cb71a06fcbc2704afed9017c3c341ce3eaa93a3f3d738fab612479e3fd0795245c04b9fec8bebe253896a72c0447808b097a53d906e4
   languageName: node
   linkType: hard
 
